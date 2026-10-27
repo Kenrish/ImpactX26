@@ -1,0 +1,2 @@
+okay, I am planning for an idea of presentation where I start with the talk of how chat-bot could be useful, but then i diverge next saying that no one really uses chat-bots bcause of the clunky reply behavior of chat-bots.
+Then I come up with the part where having better GUI and better explainations helps much more than having a chat-bot, and this could be resolved by just tweeking the GUI and having better question mark explainations.
